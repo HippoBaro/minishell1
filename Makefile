@@ -5,10 +5,10 @@
 ## Login   <barrau_h@epitech.net>
 ## 
 ## Started on  Thu Jan 29 01:40:22 2015 Hippolyte Barraud
-## Last update Tue Feb 10 10:59:11 2015 Hippolyte Barraud
+## Last update Tue Feb 10 19:38:16 2015 Hippolyte Barraud
 ##
 
-CC		= gcc -fdiagnostics-color=auto
+CC		= gcc
 
 RM		= rm -f
 
