@@ -1,0 +1,5 @@
+Welcome in minishell1. This is a very tiny and simple shell. Use 'exit' to quit and return to your ridiculously sophisticated shell. 
+'cd', 'setenv', 'unsetenv', 'env' and 'pwd' are built-in and works just fine.
+
+Made by ArrenKae with love (barrau_h).
+-------------------------------------------------------------------------------
